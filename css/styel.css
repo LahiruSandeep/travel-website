@@ -1,0 +1,16 @@
+.paragraf{
+    background-color: black;
+    color: rgb(178, 211, 211);
+    text-align: justify;
+    padding: 50px;
+    margin: 20px;
+}
+
+.abc{
+    text-align: center;
+}
+
+.paragraf2{
+    font-size: 5;
+    text-align: center;
+}
